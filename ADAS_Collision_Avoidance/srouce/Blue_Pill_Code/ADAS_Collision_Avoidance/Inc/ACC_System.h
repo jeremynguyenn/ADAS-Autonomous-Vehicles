@@ -1,9 +1,4 @@
-/*
- * ACC_System.h
- *
- *  Created on: Jun 20, 2024
- *      Author: Eman & Toqa
- */
+
 
 #ifndef ACC_SYSTEM_H_
 #define ACC_SYSTEM_H_
