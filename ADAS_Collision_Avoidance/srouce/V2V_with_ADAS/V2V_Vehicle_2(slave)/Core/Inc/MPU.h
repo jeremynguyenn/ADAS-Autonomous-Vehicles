@@ -1,9 +1,4 @@
-/*
- * MPU.h
- *
- *  Created on: Jun 18, 2023
- *      Author:
- */
+
 
 #ifndef INC_MPU_H_
 #define INC_MPU_H_
