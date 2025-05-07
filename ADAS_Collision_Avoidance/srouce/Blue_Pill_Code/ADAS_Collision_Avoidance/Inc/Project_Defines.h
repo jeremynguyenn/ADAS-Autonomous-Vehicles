@@ -1,9 +1,4 @@
-/*
- * Project_Defines.h
- *
- *  Created on: Jun 18, 2024
- *      Author: Gargera
- */
+
 
 #ifndef PROJECT_DEFINES_H_
 #define PROJECT_DEFINES_H_
