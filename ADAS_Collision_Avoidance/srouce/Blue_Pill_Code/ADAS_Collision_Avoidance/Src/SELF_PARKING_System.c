@@ -1,9 +1,4 @@
-/*
- * SELF_PARKING_System.C
- *
- *  Created on: Jun 10, 2024
- *      Author: Amina & Doha & Esraa
- */
+
 
 #include <stdint.h>
 
