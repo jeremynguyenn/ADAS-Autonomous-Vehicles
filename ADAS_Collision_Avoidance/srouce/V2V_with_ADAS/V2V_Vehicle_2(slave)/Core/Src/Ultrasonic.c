@@ -1,9 +1,4 @@
-/*
- * Ultrasonic.c
- *
- *  Created on: Oct 24, 2023
- *      Author: Mahmoud
- */
+
 #include "main.h"
 #include "Ultrasonic.h"
 
