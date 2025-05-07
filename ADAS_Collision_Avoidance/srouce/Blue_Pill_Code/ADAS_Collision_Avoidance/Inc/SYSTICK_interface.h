@@ -1,9 +1,4 @@
-/*
- * SYSTICK_interface.h
- *
- *  Created on: Jun 15, 2024
- *      Author: Eman
- */
+
 
 #ifndef SYSTICK_INTERFACE_H_
 #define SYSTICK_INTERFACE_H_
