@@ -1,9 +1,3 @@
-/*
- * SELF_PARKING_System.h
- *
- *  Created on: Jun 10, 2024
- *      Author: Amina & Doha & Esraa
- */
 
 #ifndef SELF_PARKING_SYSTEM_H_
 #define SELF_PARKING_SYSTEM_H_
