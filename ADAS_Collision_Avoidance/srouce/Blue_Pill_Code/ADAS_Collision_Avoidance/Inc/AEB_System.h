@@ -1,9 +1,4 @@
-/*
- * AEB_System.h
- *
- *  Created on: Jun 18, 2024
- *      Author: Gargera & Menna
- */
+
 
 #ifndef AEB_SYSTEM_H_
 #define AEB_SYSTEM_H_
