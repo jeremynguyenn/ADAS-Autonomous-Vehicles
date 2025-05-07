@@ -1,9 +1,4 @@
-/*
- * Parking.c
- *
- *  Created on: Nov 13, 2023
- *      Author: Mahmoud
- */
+
 
 #include "main.h"
 #include "Parking.h"
