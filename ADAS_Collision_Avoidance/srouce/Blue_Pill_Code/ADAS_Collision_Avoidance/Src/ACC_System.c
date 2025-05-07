@@ -1,9 +1,4 @@
-/*
- * ACC_System.c
- *
- *  Created on: Jun 20, 2024
- *      Author: Eman & Toqa
- */
+
 
 #include <stdint.h>
 
