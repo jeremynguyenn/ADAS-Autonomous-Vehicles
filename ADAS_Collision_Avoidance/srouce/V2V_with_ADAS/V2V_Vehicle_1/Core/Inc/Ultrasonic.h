@@ -1,9 +1,3 @@
-/*
- * Ultrasonic.h
- *
- *  Created on: Oct 24, 2023
- *      Author: Mahmoud
- */
 
 #ifndef INC_ULTRASONIC_H_
 #define INC_ULTRASONIC_H_
