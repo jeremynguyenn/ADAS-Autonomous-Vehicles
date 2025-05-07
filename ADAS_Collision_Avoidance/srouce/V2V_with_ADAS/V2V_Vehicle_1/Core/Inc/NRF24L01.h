@@ -1,9 +1,4 @@
-/*
- * NRF24L01.h
- *
- *  Created on: Oct 6, 2023
- *      Author: Mahmoud
- */
+
 
 #ifndef INC_NRF24L01_H_
 #define INC_NRF24L01_H_
