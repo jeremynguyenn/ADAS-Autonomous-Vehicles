@@ -1,9 +1,4 @@
-/*
- * Ultrasonic_Private.h
- *
- *  Created on: Apr 1, 2024
- *      Author: Gargera
- */
+
 
 #ifndef ULTRASONIC_PRIVATE_H_
 #define ULTRASONIC_PRIVATE_H_
