@@ -1,9 +1,3 @@
-/*
- * UART_Interface.h
- *
- *  Created on: Mar 8, 2024
- *      Author: Amina
- */
 
 #ifndef USART_INTERFACE_H_
 #define USART_INTERFACE_H_
