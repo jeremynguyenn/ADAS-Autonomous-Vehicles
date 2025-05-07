@@ -1,9 +1,4 @@
-/*
- * Buzzer_Config.c
- *
- *  Created on: Jun 30, 2024
- *      Author: Gargera
- */
+
 
 #include <stdint.h>
 
