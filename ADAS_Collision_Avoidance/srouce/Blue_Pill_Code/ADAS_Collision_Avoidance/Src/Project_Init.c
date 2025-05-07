@@ -1,9 +1,4 @@
-/*
- * Project_Init.c
- *
- *  Created on: Jun 18, 2024
- *      Author: Gargera
- */
+
 
 #include <stdint.h>
 
