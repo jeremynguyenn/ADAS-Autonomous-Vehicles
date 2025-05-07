@@ -1,9 +1,4 @@
-/*
- * SYSTICK_program.c
- *
- *  Created on: Jun 15, 2024
- *      Author: Eman
- */
+
 
 #include <stdint.h>
 #include "Stm32F103xx.h"
