@@ -1,9 +1,4 @@
-/*
- * UART_Project.c
- *
- *  Created on: Mar 8, 2024
- *      Author: Amina
- */
+
 #include <stdint.h>
 #include "error_typ.h"
 #include "Stm32F103xx.h"
