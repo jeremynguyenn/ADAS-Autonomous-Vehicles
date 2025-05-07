@@ -1,9 +1,4 @@
-/*
- * Ultrasonic_Interface.h
- *
- *  Created on: Apr 1, 2024
- *      Author: Gargera
- */
+
 
 #ifndef ULTRASONIC_INTERFACE_H_
 #define ULTRASONIC_INTERFACE_H_
