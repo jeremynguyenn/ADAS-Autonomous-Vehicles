@@ -1,9 +1,4 @@
-/*
- * Ultrasonic_Program.c
- *
- *  Created on: Apr 1, 2024
- *      Author: Gargera
- */
+
 
 #include <stdint.h>
 #include "Stm32F103xx.h"
