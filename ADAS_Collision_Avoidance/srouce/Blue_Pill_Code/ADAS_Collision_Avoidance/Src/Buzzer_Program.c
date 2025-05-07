@@ -1,9 +1,4 @@
-/*
- * Buzzer_Program.c
- *
- *  Created on: Jun 30, 2024
- *      Author: Gargera
- */
+
 
 #include <stdint.h>
 #include "Stm32F103xx.h"
