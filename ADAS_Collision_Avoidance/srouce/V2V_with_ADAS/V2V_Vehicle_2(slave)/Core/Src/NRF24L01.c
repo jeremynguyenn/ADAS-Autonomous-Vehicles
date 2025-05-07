@@ -1,9 +1,4 @@
-/*
- * NRF24L01.c
- *
- *  Created on: Oct 6, 2023
- *      Author: Mahmoud
- */
+
 
 #include "stm32f4xx_hal.h"
 #include "main.h"
