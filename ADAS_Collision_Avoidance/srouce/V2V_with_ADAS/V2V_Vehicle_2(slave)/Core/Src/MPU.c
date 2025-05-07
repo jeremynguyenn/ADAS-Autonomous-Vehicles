@@ -1,9 +1,4 @@
-/*
- * MPU.c
- *
- *  Created on: Jun 18, 2023
- *      Author:
- */
+
 
 #include "stm32f4xx_hal.h"
 #include "main.h"
