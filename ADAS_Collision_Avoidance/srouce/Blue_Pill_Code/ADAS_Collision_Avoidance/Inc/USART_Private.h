@@ -1,9 +1,4 @@
-/*
- * UART_Private.h
- *
- *  Created on: Mar 8, 2024
- *      Author: Amina-PC
- */
+
 
 #ifndef USART_PRIVATE_H_
 #define USART_PRIVATE_H_
