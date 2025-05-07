@@ -1,9 +1,4 @@
-/*
- * SYSTICK_private.h
- *
- *  Created on: Jun 15, 2024
- *      Author: Eman
- */
+
 
 #ifndef SYSTICK_PRIVATE_H_
 #define SYSTICK_PRIVATE_H_
