@@ -1,9 +1,3 @@
-/*
- * Servo_Config.h
- *
- *  Created on: Jun 28, 2024
- *      Author: Amina
- */
 
 #ifndef SERVO_CONFIG_H_
 #define SERVO_CONFIG_H_
