@@ -1,9 +1,4 @@
-/*
- * RCC_Interface.h
- *
- *  Created on: Jun 15, 2024
- *      Author: Gargera
- */
+
 
 #ifndef RCC_INTERFACE_H_
 #define RCC_INTERFACE_H_
