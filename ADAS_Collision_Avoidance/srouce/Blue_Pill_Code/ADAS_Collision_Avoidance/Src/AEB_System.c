@@ -1,9 +1,4 @@
-/*
- * AEB_System.c
- *
- *  Created on: Jun 18, 2024
- *      Author: Gargera & Menna
- */
+
 
 #include <stdint.h>
 
