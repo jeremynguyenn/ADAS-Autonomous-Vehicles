@@ -1,9 +1,4 @@
-/*
- * RCC_Program.c
- *
- *  Created on: Jun 15, 2024
- *      Author: Gargera
- */
+
 
 #include <stdint.h>
 #include "Bit_Math.h"
