@@ -1,9 +1,3 @@
-/*
- * Motion.h
- *
- *  Created on: Oct 31, 2023
- *      Author: Mahmoud
- */
 
 #ifndef INC_MOTION_H_
 #define INC_MOTION_H_
