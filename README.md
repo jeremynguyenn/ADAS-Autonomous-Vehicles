@@ -46,14 +46,37 @@ ACC contributes to improved fuel efficiency by maintaining a steady speed and mi
 ![image](https://github.com/user-attachments/assets/3344ef46-7497-4061-8235-f1488fcaed8a)
       How ACC work?
 The system utilizes a combination of sensors and communications between cars .
-ACC automatically adjusts the vehicle's speed to maintain a safe following distance from the car in front. When the vehicle approaches a slower-moving car, the system gradually reduces the speed to avoid collision.
-Once the road ahead clears, the system accelerates the vehicle back to the preset speed chosen by the driver . 
+ACC automatically adjusts the vehicle's speed to maintain a safe following distance from the car in front. When the vehicle approaches a slower-moving car, the system gradually reduces the speed to avoid the collision.
+Once the road ahead clears, the system accelerates the vehicle back to the preset speed chosen by the driver. 
 ![image](https://github.com/user-attachments/assets/7ee67ee7-3682-48e5-97f3-64290300ff9d)
 
+      Flow chart main algorithm
+![flowcharACC](https://github.com/jeremynguyenn/Autonomous-Vehicles/blob/main/ADAS_Collision_Avoidance/pic/ADAPTIVE_CRUISE_CONTROL.png)
 
 - AUTO EMERGENCY BRAKING SYSTEM (EBS)
+Nowadays, the number of accidents is so high and occurs everywhere, causing the worst damage, serious injuries, and death. These accidents can be caused due to the delay of the driver to hit the brakes.
+AEB is a safety system that can identify when a possible collision is about to occur and respond by autonomously activating the brakes to bring the vehicle to a stop to avoid the collision. 
+![image](https://github.com/user-attachments/assets/17159e65-1423-487a-9d48-93587900d2d2)
+      State of EBS or AEB:
+Normal State
+➢ Distance From Ultrasonic > MAXIMUM DISTANCE
+Warning State
+➢ MINIMUM DISTANCE <= Distance From Ultrasonic <= MAXIMUM DISTANCE
+Auto Braking State
+➢Distance From Ultrasonic < MINIMUM DISTANCE
+![image](https://github.com/user-attachments/assets/7ca8d726-ed7b-4f80-9731-a23cdba23e51)
 
-- SELF PARKING SYSTEM
+      Flow chart main algorithm
+![imageAEB](https://github.com/jeremynguyenn/Autonomous-Vehicles/blob/main/ADAS_Collision_Avoidance/pic/AEB.png)
 
+- SELF-PARKING SYSTEM
+Most of the time people suffer from the problem of parking the car in the appropriate places due to high traffic demand, Following the rapid increase of car ownership, many cities are lacking car parking areas.
+This system simplifies the parking process, ensuring precise and safe maneuvering into parking spaces with minimal driver intervention.
+Ultrasonic sensors, scan continuously for available parking spaces and detect obstacles.
+![image](https://github.com/user-attachments/assets/03fc127f-9dee-4668-b6db-9ff1d9ddc760)
 
+        Flow chart main algorithm
+![flowchartselfdriving](https://github.com/jeremynguyenn/Autonomous-Vehicles/blob/main/ADAS_Collision_Avoidance/pic/SELF_PARKING_SYSTEM.png)
+
+# DEMO for each subsystems
 
