@@ -78,4 +78,14 @@ Auto Braking State
 ![flowchartselfdriving](https://github.com/jeremynguyenn/Autonomous-Vehicles/blob/main/ADAS_Collision_Avoidance/pic/SELF_PARKING_SYSTEM.png)
 
 # DEMO for each subsystems
+- DAPTIVE_CRUISE_CONTROL:
 
+https://github.com/jeremynguyenn/Autonomous-Vehicles/blob/main/ADAS_Collision_Avoidance/pic/video1.mp4
+
+- AEB:
+
+https://github.com/jeremynguyenn/Autonomous-Vehicles/blob/main/ADAS_Collision_Avoidance/pic/video2.mp4
+
+-Self-driving:
+
+https://github.com/jeremynguyenn/Autonomous-Vehicles/blob/main/ADAS_Collision_Avoidance/pic/video3.mp4
